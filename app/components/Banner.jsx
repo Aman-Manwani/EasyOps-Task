@@ -3,7 +3,7 @@ import Image from "next/image";
 import Back from "../../public/assets/btnback.png";
 import Logo from "../../public/assets/companyLogo.png";
 import Dots from "../../public/assets/icVert.png";
-import Add from "../../public/assets/add.png";
+import Add from "../../public/assets/Add.png";
 import Noti from "../../public/assets/Noti.png";
 import Users from "../layouts/Users";
 

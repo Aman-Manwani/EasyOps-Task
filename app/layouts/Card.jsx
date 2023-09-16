@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Dots from "../../public/assets/icVert1.png";
-import Clock from "../../public/assets/Clock.png";
+import Clock from "../../public/assets/clock.png";
 
 const Card = ({title,caption,done,bcolor}) => {
   return (
